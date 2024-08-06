@@ -79,7 +79,7 @@ public class Account {
 	
 	
 	/*
-	 * Constructor
+	 * Constructor KAN-16
 	 */
 	public Account () {
 		accountNumber = new AccountNumberSeq();
