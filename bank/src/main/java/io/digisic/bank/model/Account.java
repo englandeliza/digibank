@@ -136,7 +136,7 @@ public class Account {
 	}
 
 	/**
-	 * @return the openingBalance
+	 * @return the openingBalance KAN-17
 	 */
 	public BigDecimal getOpeningBalance() {
 		return openingBalance;
